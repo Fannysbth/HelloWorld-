@@ -25,4 +25,5 @@ A simple Android application that displays **"Hello World"** using Kotlin.
 ---
 ## Screenshot
 Berikut adalah tampilan aplikasi saat dijalankan:   
-![Hello World Screenshot](Screenshot_2025-07-07-14-51-01-910_com.example.helloworld.jpg)
+<img src="Screenshot_2025-07-07-14-51-01-910_com.example.helloworld.jpg" alt="Hello World Screenshot" width="300"/>
+
