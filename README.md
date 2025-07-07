@@ -21,3 +21,8 @@ A simple Android application that displays **"Hello World"** using Kotlin.
    ```
 2. Open the project in Android Studio.
 3. Click Run ▶️ to install and launch the app on a device or emulator.
+
+---
+## Screenshot
+Berikut adalah tampilan aplikasi saat dijalankan:   
+![Hello World Screenshot](Screenshot_2025-07-07-14-51-01-910_com.example.helloworld.jpg)
